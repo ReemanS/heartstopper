@@ -1,10 +1,12 @@
+import Particle from "./components/Particle";
 import Content from "./Content";
 
 function App() {
   return (
-    <body>
+    <div className="font-raleway ">
       <Content />
-    </body>
+      {/* <Particle /> */}
+    </div>
   );
 }
 
