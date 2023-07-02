@@ -3,9 +3,9 @@ import Content from "./Content";
 
 function App() {
   return (
-    <div className="font-raleway ">
+    <div className="font-raleway">
       <Content />
-      {/* <Particle /> */}
+      <Particle />
     </div>
   );
 }
