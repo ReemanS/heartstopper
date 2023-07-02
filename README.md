@@ -2,7 +2,11 @@
 
 This is a gimmick webpage that features a jumpscare effect triggered by a button click. The project is a refactored version of an [earlier project i made](https://github.com/ReemanS/simple-js) when I didn't have much experience in writing code, now implemented using React.
 
-## Getting Started
+You can take a look and share the webpage with your friends through this link:
+
+https://reemans.github.io/heartstopper/
+
+## Deploy locally
 
 To get a local copy of this project up and running, follow these steps:
 
