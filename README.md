@@ -1,6 +1,6 @@
 # Heartstopper
 
-This is a gimmick webpage that features a jumpscare effect triggered by a button click. The project is a refactored version of an [earlier project i made](https://github.com/ReemanS/simple-js) when I didn't have much experience in writing code, now implemented using React.
+This is a gimmick webpage that features a jumpscare effect triggered by a button click. The project is a refactored version of an [earlier project I made](https://github.com/ReemanS/simple-js) when I didn't have much experience in writing code, now implemented using React.
 
 You can take a look and share the webpage with your friends through this link:
 
@@ -21,4 +21,4 @@ To get a local copy of this project up and running, follow these steps:
 
 The jumpscare effect is triggered by clicking the "Start the Experience" button. When clicked, a sound will play, and an image will appear instantly. The image and sound assets can be customized by replacing the respective files in the `assets` folder.
 
-Feel free to modify and customize the code to suit your requirements :)
+Feel free to modify and customize the code to suit your requirements 😈
